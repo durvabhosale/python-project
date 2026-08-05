@@ -53,9 +53,3 @@ while looping == True:
         break;
 
 
-
-
-
-
-
->>>>>>> ce2b5cd (Add Calculator.py)
